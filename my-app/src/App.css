@@ -1,0 +1,8 @@
+.main_container{
+    display: flex;
+    gap: calc(1rem);
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
